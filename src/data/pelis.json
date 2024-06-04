@@ -1,0 +1,202 @@
+[
+    {
+        "title": "El Padrino",
+        "year": "1972",
+        "rating": "9.2",
+        "genre": "Drama, Crimen",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            {
+                "name": "Marlon Brando"
+            },
+            {
+                "name": "Al Pacino"
+            },
+            {
+                "name": "James Caan"
+            }
+        ],
+        "plot": "La historia de los Corleone, una familia de la mafia siciliana que reside en Nueva York.",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwMC00ZDI3LWI1ODEtNWJlY2QzODRlYjMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    },
+    {
+        "title": "Matrix",
+        "year": "1999",
+        "rating": "8.7",
+        "genre": "Acción, Ciencia ficción",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "cast": [
+            {
+                "name": "Keanu Reeves"
+            },
+            {
+                "name": "Laurence Fishburne"
+            },
+            {
+                "name": "Carrie-Anne Moss"
+            }
+        ],
+        "plot": "Un joven programador descubre que la realidad que conocemos es una simulación creada por máquinas, y se une a un grupo de rebeldes para luchar contra ellas.",
+        "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "rating": "8.9",
+        "genre": "Crimen, Drama, Thriller",
+        "director": "Quentin Tarantino",
+        "cast": [
+            {
+                "name": "John Travolta"
+            },
+            {
+                "name": "Uma Thurman"
+            },
+            {
+                "name": "Samuel L. Jackson"
+            }
+        ],
+        "plot": "La vida de varios personajes se entrelaza en el violento mundo del crimen de Los Ángeles.",
+        "image": "https://static.posters.cz/image/750/posters/pulp-fiction-cover-i1288.jpg"
+    },
+    {
+        "title": "El Caballero Oscuro",
+        "year": "2008",
+        "rating": "9.0",
+        "genre": "Acción, Crimen, Drama",
+        "director": "Christopher Nolan",
+        "cast": [
+            {
+                "name": "Christian Bale"
+            },
+            {
+                "name": "Heath Ledger"
+            },
+            {
+                "name": "Aaron Eckhart"
+            }
+        ],
+        "plot": "Cuando el Joker emerge como una nueva amenaza para Gotham, Batman debe enfrentarse a sus propios límites y proteger la ciudad de un caos inminente.",
+        "image": "https://m.media-amazon.com/images/I/51WO5B5KVKL._AC_.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "rating": "8.8",
+        "genre": "Drama, Romance",
+        "director": "Robert Zemeckis",
+        "cast": [
+            {
+                "name": "Tom Hanks"
+            },
+            {
+                "name": "Robin Wright"
+            },
+            {
+                "name": "Gary Sinise"
+            }
+        ],
+        "plot": "La extraordinaria vida de Forrest Gump, un hombre con un coeficiente intelectual bajo que presencia y participa en varios eventos históricos importantes.",
+        "image": "https://m.media-amazon.com/images/I/51e8e0jRGeL._AC_.jpg"
+    },
+    {
+        "title": "La La Land",
+        "year": "2016",
+        "rating": "8.0",
+        "genre": "Comedia, Drama, Musical",
+        "director": "Damien Chazelle",
+        "cast": [
+            {
+                "name": "Ryan Gosling"
+            },
+            {
+                "name": "Emma Stone"
+            },
+            {
+                "name": "Rosemarie DeWitt"
+            }
+        ],
+        "plot": "Una aspirante a actriz y un músico de jazz se enamoran mientras intentan perseguir sus sueños en Los Ángeles.",
+        "image": "https://m.media-amazon.com/images/I/91Nw-EVTbFL._AC_SY679_.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "rating": "8.6",
+        "genre": "Aventura, Drama, Ciencia ficción",
+        "director": "Christopher Nolan",
+        "cast": [
+            {
+                "name": "Matthew McConaughey"
+            },
+            {
+                "name": "Anne Hathaway"
+            },
+            {
+                "name": "Jessica Chastain"
+            }
+        ],
+        "plot": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad, mientras su propia existencia se ve amenazada por el tiempo y el espacio.",
+        "image": "https://m.media-amazon.com/images/I/81auMev0rvL._AC_SY679_.jpg"
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "rating": "8.5",
+        "genre": "Acción, Aventura, Drama",
+        "director": "Ridley Scott",
+        "cast": [
+            {
+                "name": "Russell Crowe"
+            },
+            {
+                "name": "Joaquin Phoenix"
+            },
+            {
+                "name": "Connie Nielsen"
+            }
+        ],
+        "plot": "Un general romano es traicionado y convertido en esclavo. Lucha como gladiador para vengarse del emperador corrupto que mató a su familia.",
+        "image": "https://m.media-amazon.com/images/I/71boz0G4C8L._AC_SY679_.jpg"
+    },
+    {
+        "title": "El Gran Hotel Budapest",
+        "year": "2014",
+        "rating": "8.1",
+        "genre": "Aventura, Comedia, Drama",
+        "director": "Wes Anderson",
+        "cast": [
+            {
+                "name": "Ralph Fiennes"
+            },
+            {
+                "name": "F. Murray Abraham"
+            },
+            {
+                "name": "Mathieu Amalric"
+            }
+        ],
+        "plot": "El legendario conserje de un famoso hotel europeo y su joven aprendiz se involucran en una serie de aventuras mientras tratan de recuperar una obra de arte robada y proteger su reputación.",
+        "image": "https://m.media-amazon.com/images/I/91KsQhRZA4L._AC_SY679_.jpg"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "rating": "8.8",
+        "genre": "Acción, Aventura, Ciencia ficción",
+        "director": "Christopher Nolan",
+        "cast": [
+            {
+                "name": "Leonardo DiCaprio"
+            },
+            {
+                "name": "Joseph Gordon-Levitt"
+            },
+            {
+                "name": "Ellen Page"
+            }
+        ],
+        "plot": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños es dado la tarea inversa de implantar una idea en la mente de un director ejecutivo.",
+        "image": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg"
+    }
+]
