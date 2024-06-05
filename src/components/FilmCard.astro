@@ -1,21 +1,24 @@
 ---
 import PelisController from "../classes/PelisController";
-const { Id } = Astro.props;
+console.log(Astro.props)
+const { id } = Astro.props;
+console.log(id)
 const pelisController = new PelisController();
-const dadesPelicula = await pelisController.getItemById(Id);
-const pelicula = dadesPelicula.list;
+const dadesPelis = await pelisController.getItemById(id);
+const pelis = dadesPelis.list;
+pelis.map(peli => console.log(peli.Id))
 ---
 
 <div class="col-3">
     <div class="customCard">
         <div class="card" style="width: 18rem;">
-            <img src={pelicula.imagen} class="card-img-top" alt="..." />
+            <img src={pelis.image} class="card-img-top" alt="..." />
             <div class="card-body">
-                <h5 class="card-title">{pelicula.título}</h5>
+                <h5 class="card-title">{pelis.title}</h5>
                 <p class="card-text">
-                    {pelicula.descripción}
+                    {pelis.plot}
                 </p>
-                <a href={pelicula.Id} class="btn btn-primary">Go somewhere</a>
+                <a href={pelis.Id} class="btn btn-primary">Go somewhere</a>
             </div>
         </div>
     </div>

@@ -1,4 +1,4 @@
-const APIURL = 'https://app.nocodb.com/api/v2/tables/mawokzemkiqssco/records';
+const APIURL = 'https://app.nocodb.com/api/v2/tables/mguaztzvhvfu2cx/records';
 const TOKEN = '4rfGfqNky6ukuBn9NgtrnkC8DPERQjvtknpzizyS';
 
 class PelisController {

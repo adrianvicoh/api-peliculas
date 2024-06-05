@@ -5,10 +5,17 @@ import FilmCard from '../components/FilmCard.astro'
 
 const pelisController = new PelisController();
 
-const items = await pelisController.getAll();
+const dadesPeli = await pelisController.getAll();
+const pelis = dadesPeli.list;
 ---
 <Layout>
 
     <h1>Cartelera de películas</h1>
-
+    {
+        pelis.map(peli => {
+            <FilmCard id={peli.Id} />
+            //console.log(peli.Id);
+            <p>{peli.title}</p>
+        })
+    }
 </Layout>
