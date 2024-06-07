@@ -11,5 +11,8 @@ const pelis = dadesPeli.list;
 
 <Layout>
     <h1>Cartelera de películas</h1>
-    {pelis.map((peli) => <FilmCard id={peli.Id} />)}
+    <div class="row">
+        {pelis.map((peli) => <FilmCard id={peli.Id} />)}
+    </div>
+    
 </Layout>

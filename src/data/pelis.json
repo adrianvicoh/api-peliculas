@@ -1,25 +1,5 @@
 [
     {
-        "title": "El Padrino",
-        "year": "1972",
-        "rating": "9.2",
-        "genre": "Drama, Crimen",
-        "director": "Francis Ford Coppola",
-        "cast": [
-            {
-                "name": "Marlon Brando"
-            },
-            {
-                "name": "Al Pacino"
-            },
-            {
-                "name": "James Caan"
-            }
-        ],
-        "plot": "La historia de los Corleone, una familia de la mafia siciliana que reside en Nueva York.",
-        "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwMC00ZDI3LWI1ODEtNWJlY2QzODRlYjMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-    },
-    {
         "title": "Matrix",
         "year": "1999",
         "rating": "8.7",
@@ -37,13 +17,33 @@
             }
         ],
         "plot": "Un joven programador descubre que la realidad que conocemos es una simulación creada por máquinas, y se une a un grupo de rebeldes para luchar contra ellas.",
-        "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+    },
+    {
+        "title": "El Padrino",
+        "year": "1972",
+        "rating": "9.2",
+        "genre": "Drama, Crimen",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            {
+                "name": "Marlon Brando"
+            },
+            {
+                "name": "Al Pacino"
+            },
+            {
+                "name": "James Caan"
+            }
+        ],
+        "plot": "La historia de los Corleone, una familia de la mafia siciliana que reside en Nueva York.",
+        "image": "https://myhotposters.com/cdn/shop/products/mHP0135_1024x1024.jpeg"
     },
     {
         "title": "Pulp Fiction",
         "year": "1994",
         "rating": "8.9",
-        "genre": "Crimen, Drama, Thriller",
+        "genre": "Crímen, Drama, Thriller",
         "director": "Quentin Tarantino",
         "cast": [
             {
@@ -57,47 +57,27 @@
             }
         ],
         "plot": "La vida de varios personajes se entrelaza en el violento mundo del crimen de Los Ángeles.",
-        "image": "https://static.posters.cz/image/750/posters/pulp-fiction-cover-i1288.jpg"
+        "image": "https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg"
     },
     {
-        "title": "El Caballero Oscuro",
-        "year": "2008",
-        "rating": "9.0",
-        "genre": "Acción, Crimen, Drama",
-        "director": "Christopher Nolan",
+        "title": "Black Panther",
+        "year": "2018",
+        "rating": "7.3",
+        "genre": "Acción, Aventura, Ciencia ficción",
+        "director": "Ryan Coogler",
         "cast": [
             {
-                "name": "Christian Bale"
+                "name": "Chadwick Boseman"
             },
             {
-                "name": "Heath Ledger"
+                "name": "Michael B. Jordan"
             },
             {
-                "name": "Aaron Eckhart"
+                "name": "Lupita Nyong'o"
             }
         ],
-        "plot": "Cuando el Joker emerge como una nueva amenaza para Gotham, Batman debe enfrentarse a sus propios límites y proteger la ciudad de un caos inminente.",
-        "image": "https://m.media-amazon.com/images/I/51WO5B5KVKL._AC_.jpg"
-    },
-    {
-        "title": "Forrest Gump",
-        "year": "1994",
-        "rating": "8.8",
-        "genre": "Drama, Romance",
-        "director": "Robert Zemeckis",
-        "cast": [
-            {
-                "name": "Tom Hanks"
-            },
-            {
-                "name": "Robin Wright"
-            },
-            {
-                "name": "Gary Sinise"
-            }
-        ],
-        "plot": "La extraordinaria vida de Forrest Gump, un hombre con un coeficiente intelectual bajo que presencia y participa en varios eventos históricos importantes.",
-        "image": "https://m.media-amazon.com/images/I/51e8e0jRGeL._AC_.jpg"
+        "plot": "El nuevo rey de Wakanda, T'Challa, debe proteger su país de un enemigo poderoso mientras se enfrenta a las responsabilidades de su papel como líder.",
+        "image": "https://pics.filmaffinity.com/black_panther-992613805-large.jpg"
     },
     {
         "title": "La La Land",
@@ -117,7 +97,7 @@
             }
         ],
         "plot": "Una aspirante a actriz y un músico de jazz se enamoran mientras intentan perseguir sus sueños en Los Ángeles.",
-        "image": "https://m.media-amazon.com/images/I/91Nw-EVTbFL._AC_SY679_.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png"
     },
     {
         "title": "Interstellar",
@@ -137,7 +117,7 @@
             }
         ],
         "plot": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad, mientras su propia existencia se ve amenazada por el tiempo y el espacio.",
-        "image": "https://m.media-amazon.com/images/I/81auMev0rvL._AC_SY679_.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
     },
     {
         "title": "Gladiator",
@@ -157,7 +137,7 @@
             }
         ],
         "plot": "Un general romano es traicionado y convertido en esclavo. Lucha como gladiador para vengarse del emperador corrupto que mató a su familia.",
-        "image": "https://m.media-amazon.com/images/I/71boz0G4C8L._AC_SY679_.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg"
     },
     {
         "title": "El Gran Hotel Budapest",
@@ -177,7 +157,7 @@
             }
         ],
         "plot": "El legendario conserje de un famoso hotel europeo y su joven aprendiz se involucran en una serie de aventuras mientras tratan de recuperar una obra de arte robada y proteger su reputación.",
-        "image": "https://m.media-amazon.com/images/I/91KsQhRZA4L._AC_SY679_.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Grand_Budapest_Hotel_Poster.jpg"
     },
     {
         "title": "Inception",
@@ -197,6 +177,6 @@
             }
         ],
         "plot": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños es dado la tarea inversa de implantar una idea en la mente de un director ejecutivo.",
-        "image": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
     }
 ]
