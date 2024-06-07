@@ -1,21 +1,15 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import PelisController from '../classes/PelisController'
-import FilmCard from '../components/FilmCard.astro'
+import Layout from "../layouts/Layout.astro";
+import PelisController from "../classes/PelisController";
+import FilmCard from "../components/FilmCard.astro";
 
 const pelisController = new PelisController();
 
 const dadesPeli = await pelisController.getAll();
 const pelis = dadesPeli.list;
 ---
-<Layout>
 
+<Layout>
     <h1>Cartelera de películas</h1>
-    {
-        pelis.map(peli => {
-            <FilmCard id={peli.Id} />
-            //console.log(peli.Id);
-            <p>{peli.title}</p>
-        })
-    }
+    {pelis.map((peli) => <FilmCard id={peli.Id} />)}
 </Layout>

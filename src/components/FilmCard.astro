@@ -1,12 +1,10 @@
 ---
 import PelisController from "../classes/PelisController";
-console.log(Astro.props)
 const { id } = Astro.props;
-console.log(id)
 const pelisController = new PelisController();
 const dadesPelis = await pelisController.getItemById(id);
 const pelis = dadesPelis.list;
-pelis.map(peli => console.log(peli.Id))
+console.log(pelis)
 ---
 
 <div class="col-3">
